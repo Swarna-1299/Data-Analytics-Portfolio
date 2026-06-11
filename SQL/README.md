@@ -1,13 +1,13 @@
 # SQL Project
 
-# Customer Shopping Behavior Analysis
+## Customer Shopping Behavior Analysis
 
 This folder contains SQL queries used to analyze customer shopping behavior.
 
-# Files
+### Files
 - customer_behavior.sql
 
-# Topics Covered
+### Topics Covered
 - Filtering
 - Aggregation
 - GROUP BY
